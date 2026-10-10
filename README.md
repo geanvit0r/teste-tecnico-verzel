@@ -135,7 +135,7 @@ A pasta `EVIDÊNCIAS DOS TESTES` reúne os artefatos produzidos durante as valid
 - Relatórios dos defeitos identificados.
 - Relatório consolidado da execução dos testes.
 
-Essa organização facilita a rastreabilidade dos cenários, a consulta às evidências e a compreensão dos resultados obtidos durante o desafio técnico.
+Todos os casos de testes foram escritos em Gherkin. Essa organização facilita a rastreabilidade dos cenários, a consulta às evidências e a compreensão dos resultados obtidos durante o desafio técnico.
 
 ## 🤖 Utilização de Inteligência Artificial
 
